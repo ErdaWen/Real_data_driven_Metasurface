@@ -1,4 +1,4 @@
-This folder includes the code for building and training the Sequencial Tendem Neural Network, with Case C as an example.
+This folder includes the code for building and training the Sequencial Tandem Neural Network, with Case C as an example.
 
 Predictor training: EmC_Pre_caseC.ipynb
 
